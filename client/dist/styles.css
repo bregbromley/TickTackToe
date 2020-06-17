@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+
+tr {
+  height: 100px;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  text-align: center;
+  font-size: 50px;
+  width: 100px;
+  border: solid black;
+  border-width: 1px;
+}
